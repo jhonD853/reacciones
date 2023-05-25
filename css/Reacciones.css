@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap');
+*{
+    font-family: 'Vina Sans', cursive;
+    background-color: rgb(212, 212, 212);
+}
+.usuario{
+    color: rgb(41, 132, 85);
+    text-decoration: underline;
+    font-size: 30px;
+}
+li{
+    margin: auto;
+    background-color: rgba(80, 78, 78, 0.801);
+    display: inline;
+    list-style: none;
+    justify-content: space-evenly;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.fecha{
+    color: rgba(118, 117, 117, 0.801);
+    font-size: 10px;
+}
